@@ -1,0 +1,28 @@
+
+#expression {
+    padding: 100px 0;
+    text-align: center;
+    border: solid;
+    min-width: 500px;
+    float: left;
+    margin: 40px 0;
+}
+
+#expression div {
+    vertical-align:middle;
+    display: inline-block;
+    min-height: 25px;
+    min-width: 60px;
+    border: solid black;
+    margin: 10px;
+    text-align: center;
+}
+#labels{
+  margin-top: 20px;
+  clear: both;
+}
+#labels > span {
+    border: solid;
+    padding: 5px;
+    margin: 0 10px;
+}
